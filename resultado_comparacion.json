@@ -1,5 +1,5 @@
 {
-  "generado_utc": "2026-08-20T08:44:45+00:00",
+  "generado_utc": "2026-08-20T08:59:12+00:00",
   "dias_de_consumo_usados": 29,
   "potencia_contratada_actual_kw": 8.0,
   "sugerencia_potencia": {
@@ -9,7 +9,7 @@
   },
   "ranking_tarifas": [
     {
-      "nombre": "PVPC PVPC 2.0TD (2026) 1 Ene 2026 2.0TD (PVPC) Pot ≤ 10 kW IDX , FV",
+      "nombre": "PVPC PVPC 2.0TD (2026)",
       "url": null,
       "indexada_pvpc": true,
       "dias_calculados": 29,
@@ -486,7 +486,7 @@
     }
   ],
   "mejor_tarifa": {
-    "nombre": "PVPC PVPC 2.0TD (2026) 1 Ene 2026 2.0TD (PVPC) Pot ≤ 10 kW IDX , FV",
+    "nombre": "PVPC PVPC 2.0TD (2026)",
     "url": null,
     "indexada_pvpc": true,
     "dias_calculados": 29,
@@ -500,7 +500,7 @@
     "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas. ⚠️ Hay horas sin precio PVPC disponible; el coste puede estar incompleto."
   },
   "historico_facturas_por_tarifa": {
-    "PVPC PVPC 2.0TD (2026) 1 Ene 2026 2.0TD (PVPC) Pot ≤ 10 kW IDX , FV": [
+    "PVPC PVPC 2.0TD (2026)": [
       {
         "mes": "2024-09",
         "total_factura_eur": 1.86
