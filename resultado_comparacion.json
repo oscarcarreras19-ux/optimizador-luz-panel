@@ -1,6 +1,6 @@
 {
-  "generado_utc": "2026-09-20T10:16:01+00:00",
-  "dias_de_consumo_usados": 30,
+  "generado_utc": "2026-09-21T11:22:43+00:00",
+  "dias_de_consumo_usados": 29,
   "potencia_contratada_actual_kw": 8.0,
   "sugerencia_potencia": {
     "maximo_demandado_kw": 5.732,
@@ -12,41 +12,27 @@
       "nombre": "Estabanell Pla Solar",
       "url": "https://estabanell.com/energia/solar/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 33.92,
+      "dias_calculados": 29,
+      "coste_energia_eur": 32.63,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 34.66,
-      "total_mensual_estimado_eur": 34.66,
-      "horas_sin_precio_pvpc": 353,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 33.35,
+      "total_mensual_estimado_eur": 34.5,
+      "horas_sin_precio_pvpc": 341,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas. ⚠️ Hay horas sin precio PVPC disponible; el coste puede estar incompleto."
     },
     {
       "nombre": "Energía Nufri Con horarios",
       "url": "https://www.energianufri.com/es/tarifas-luz",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 37.91,
+      "dias_calculados": 29,
+      "coste_energia_eur": 36.39,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 38.65,
-      "total_mensual_estimado_eur": 38.65,
-      "horas_sin_precio_pvpc": 0,
-      "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
-    },
-    {
-      "nombre": "Imagina Energía Tarifa base - Noche y findes",
-      "url": "https://imaginaenergia.com/plan-base-imagina/",
-      "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 40.56,
-      "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 41.3,
-      "total_mensual_estimado_eur": 41.3,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 37.11,
+      "total_mensual_estimado_eur": 38.39,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -54,13 +40,13 @@
       "nombre": "Naturgy Tarifa Noche",
       "url": "https://www.naturgy.es/hogar/luz/tarifa_noche",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 41.12,
+      "dias_calculados": 29,
+      "coste_energia_eur": 39.43,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 41.86,
-      "total_mensual_estimado_eur": 41.86,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 40.15,
+      "total_mensual_estimado_eur": 41.53,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -68,13 +54,13 @@
       "nombre": "Naturgy Tarifa Noche (BV)",
       "url": "https://www.naturgy.es/hogar/luz/tarifa_noche",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 41.12,
+      "dias_calculados": 29,
+      "coste_energia_eur": 39.43,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 41.86,
-      "total_mensual_estimado_eur": 41.86,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 40.15,
+      "total_mensual_estimado_eur": 41.53,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -82,13 +68,13 @@
       "nombre": "Naturgy Tarifa Solar",
       "url": "https://www.naturgy.es/hogar/solar/tarifa_solar",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 41.12,
+      "dias_calculados": 29,
+      "coste_energia_eur": 39.43,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 41.86,
-      "total_mensual_estimado_eur": 41.86,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 40.15,
+      "total_mensual_estimado_eur": 41.53,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -96,13 +82,13 @@
       "nombre": "Naturgy Tarifa Solar (BV)",
       "url": "https://www.naturgy.es/hogar/solar/tarifa_solar",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 41.12,
+      "dias_calculados": 29,
+      "coste_energia_eur": 39.43,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 41.86,
-      "total_mensual_estimado_eur": 41.86,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 40.15,
+      "total_mensual_estimado_eur": 41.53,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -110,13 +96,13 @@
       "nombre": "Repsol Discriminación Horaria",
       "url": "https://www.repsol.es/particulares/hogar/luz-y-gas/tarifas/tarifa-discriminacion-horaria/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 42.49,
+      "dias_calculados": 29,
+      "coste_energia_eur": 40.7,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 43.23,
-      "total_mensual_estimado_eur": 43.23,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 41.42,
+      "total_mensual_estimado_eur": 42.85,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -124,13 +110,13 @@
       "nombre": "Niba niba Tres",
       "url": "https://niba.es/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 45.54,
+      "dias_calculados": 29,
+      "coste_energia_eur": 43.59,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 46.28,
-      "total_mensual_estimado_eur": 46.28,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 44.31,
+      "total_mensual_estimado_eur": 45.83,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -138,13 +124,13 @@
       "nombre": "Imagina Energía Tarifa noche y findes",
       "url": "https://imaginaenergia.com/tarifa-luz-noche-y-findes/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 45.69,
+      "dias_calculados": 29,
+      "coste_energia_eur": 43.78,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 46.43,
-      "total_mensual_estimado_eur": 46.43,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 44.5,
+      "total_mensual_estimado_eur": 46.03,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -152,41 +138,27 @@
       "nombre": "Octopus Energy Octopus Relax",
       "url": "https://octopusenergy.es/precios",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 46.15,
+      "dias_calculados": 29,
+      "coste_energia_eur": 44.09,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 46.89,
-      "total_mensual_estimado_eur": 46.89,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 44.8,
+      "total_mensual_estimado_eur": 46.35,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
     {
-      "nombre": "Iberdrola Plan Online 3 periodos",
-      "url": "https://www.iberdrola.es/luz/plan-online-tres-periodos",
+      "nombre": "Imagina Energía Tarifa base - Noche y findes",
+      "url": "https://imaginaenergia.com/plan-base-imagina/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 47.97,
+      "dias_calculados": 29,
+      "coste_energia_eur": 45.56,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 48.71,
-      "total_mensual_estimado_eur": 48.71,
-      "horas_sin_precio_pvpc": 0,
-      "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
-    },
-    {
-      "nombre": "Iberdrola Plan Online 3 periodos (BV)",
-      "url": "https://www.iberdrola.es/luz/plan-online-tres-periodos",
-      "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 47.97,
-      "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 48.71,
-      "total_mensual_estimado_eur": 48.71,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 46.28,
+      "total_mensual_estimado_eur": 47.87,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -194,13 +166,13 @@
       "nombre": "Octopus Energy Octopus 3",
       "url": "https://octopusenergy.es/precios",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 48.35,
+      "dias_calculados": 29,
+      "coste_energia_eur": 46.32,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 49.1,
-      "total_mensual_estimado_eur": 49.1,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 47.03,
+      "total_mensual_estimado_eur": 48.65,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -208,13 +180,13 @@
       "nombre": "Bonpreu Noche y Día",
       "url": "https://www.bonpreuesclat.cat/es/planes-energia-bonpreu",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 48.72,
+      "dias_calculados": 29,
+      "coste_energia_eur": 46.71,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 49.46,
-      "total_mensual_estimado_eur": 49.46,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 47.42,
+      "total_mensual_estimado_eur": 49.06,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -222,13 +194,13 @@
       "nombre": "Bonpreu Solar",
       "url": "https://www.bonpreuesclat.cat/es/planes-energia-bonpreu",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 48.72,
+      "dias_calculados": 29,
+      "coste_energia_eur": 46.71,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 49.46,
-      "total_mensual_estimado_eur": 49.46,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 47.42,
+      "total_mensual_estimado_eur": 49.06,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -236,27 +208,13 @@
       "nombre": "Endesa Tarifa Conecta 3 Periodos",
       "url": "https://www.endesa.com/es/luz-y-gas/luz/one/tarifa-one-luz-3periodos",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 49.93,
+      "dias_calculados": 29,
+      "coste_energia_eur": 47.88,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 50.67,
-      "total_mensual_estimado_eur": 50.67,
-      "horas_sin_precio_pvpc": 0,
-      "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
-    },
-    {
-      "nombre": "Iberdrola Plan Ahorro Solar (BV)",
-      "url": "https://www.iberdrola.es/luz/plan-ahorro-solar",
-      "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 51.86,
-      "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 52.6,
-      "total_mensual_estimado_eur": 52.6,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 48.59,
+      "total_mensual_estimado_eur": 50.27,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -264,13 +222,41 @@
       "nombre": "CHC Energy Plan Vehículo Eléctrico",
       "url": "https://chcenergia.es/luz/plan-vehiculo-electrico",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 52.1,
+      "dias_calculados": 29,
+      "coste_energia_eur": 49.55,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 52.84,
-      "total_mensual_estimado_eur": 52.84,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 50.27,
+      "total_mensual_estimado_eur": 52.0,
+      "horas_sin_precio_pvpc": 0,
+      "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
+    },
+    {
+      "nombre": "Iberdrola Plan Online 3 periodos",
+      "url": "https://www.iberdrola.es/luz/plan-online-tres-periodos",
+      "indexada_pvpc": false,
+      "dias_calculados": 29,
+      "coste_energia_eur": 54.18,
+      "coste_potencia_eur": 0.0,
+      "coste_cuota_eur": 0.0,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 54.9,
+      "total_mensual_estimado_eur": 56.79,
+      "horas_sin_precio_pvpc": 0,
+      "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
+    },
+    {
+      "nombre": "Iberdrola Plan Online 3 periodos (BV)",
+      "url": "https://www.iberdrola.es/luz/plan-online-tres-periodos",
+      "indexada_pvpc": false,
+      "dias_calculados": 29,
+      "coste_energia_eur": 54.18,
+      "coste_potencia_eur": 0.0,
+      "coste_cuota_eur": 0.0,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 54.9,
+      "total_mensual_estimado_eur": 56.79,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -278,13 +264,13 @@
       "nombre": "Visalia Luz 3 Periodos",
       "url": "https://visalia.es/luz/luz-3-periodos/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 57.32,
+      "dias_calculados": 29,
+      "coste_energia_eur": 54.96,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 58.06,
-      "total_mensual_estimado_eur": 58.06,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 55.68,
+      "total_mensual_estimado_eur": 57.6,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -292,13 +278,27 @@
       "nombre": "Octopus Energy Octopus Solar",
       "url": "https://octopusenergy.es/precios/tarifa-solar",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 60.21,
+      "dias_calculados": 29,
+      "coste_energia_eur": 57.74,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 60.95,
-      "total_mensual_estimado_eur": 60.95,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 58.46,
+      "total_mensual_estimado_eur": 60.48,
+      "horas_sin_precio_pvpc": 0,
+      "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
+    },
+    {
+      "nombre": "Iberdrola Plan Ahorro Solar (BV)",
+      "url": "https://www.iberdrola.es/luz/plan-ahorro-solar",
+      "indexada_pvpc": false,
+      "dias_calculados": 29,
+      "coste_energia_eur": 58.23,
+      "coste_potencia_eur": 0.0,
+      "coste_cuota_eur": 0.0,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 58.95,
+      "total_mensual_estimado_eur": 60.98,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -306,13 +306,13 @@
       "nombre": "Electra energía Plan Flexa 2",
       "url": "https://electracaldenseenergia.com/es/luz/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 61.06,
+      "dias_calculados": 29,
+      "coste_energia_eur": 58.49,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 61.8,
-      "total_mensual_estimado_eur": 61.8,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 59.2,
+      "total_mensual_estimado_eur": 61.24,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -320,13 +320,13 @@
       "nombre": "Som Energía Tarifa 2.0TD SOM",
       "url": "https://www.somenergia.coop/es/tarifas-luz/domestico-periodos",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.02,
+      "dias_calculados": 29,
+      "coste_energia_eur": 61.36,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 64.76,
-      "total_mensual_estimado_eur": 64.76,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 62.07,
+      "total_mensual_estimado_eur": 64.21,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -334,13 +334,13 @@
       "nombre": "PVPC PVPC 2.0TD (2026)",
       "url": null,
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 65.51,
-      "total_mensual_estimado_eur": 65.51,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 63.15,
+      "total_mensual_estimado_eur": 65.33,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -348,13 +348,13 @@
       "nombre": "Lumio Lumio",
       "url": "https://www.lumio.solar/tarifas-de-luz/",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 2.99,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 68.5,
-      "total_mensual_estimado_eur": 68.5,
+      "coste_cuota_eur": 2.89,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 66.04,
+      "total_mensual_estimado_eur": 68.32,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -362,13 +362,13 @@
       "nombre": "Helios Energía Cuenta verde (BV)",
       "url": "https://heliosenergia.es/",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 4.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 69.51,
-      "total_mensual_estimado_eur": 69.51,
+      "coste_cuota_eur": 3.87,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 67.02,
+      "total_mensual_estimado_eur": 69.33,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -376,13 +376,13 @@
       "nombre": "Lucera 2.0TD a precio coste",
       "url": "https://lucera.es/tarifas-luz/precio-coste",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 4.9,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 70.41,
-      "total_mensual_estimado_eur": 70.41,
+      "coste_cuota_eur": 4.74,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 67.89,
+      "total_mensual_estimado_eur": 70.23,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -390,13 +390,13 @@
       "nombre": "Gana Energía Tarifa Precio de Mercado",
       "url": "https://ganaenergia.com/tarifas-luz/precio-mercado",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 5.01,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 70.52,
-      "total_mensual_estimado_eur": 70.52,
+      "coste_cuota_eur": 4.84,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 67.99,
+      "total_mensual_estimado_eur": 70.34,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -404,13 +404,13 @@
       "nombre": "Octopus Energy Octopus Go (Vehículo Eléc)",
       "url": "https://octopusenergy.es/precios/tarifa-ev",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 73.84,
+      "dias_calculados": 29,
+      "coste_energia_eur": 70.28,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 74.58,
-      "total_mensual_estimado_eur": 74.58,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 71.0,
+      "total_mensual_estimado_eur": 73.45,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -418,13 +418,13 @@
       "nombre": "Próxima Energía Tarifa de luz (FV)",
       "url": "https://proximaenergia.com/tarifa-cristalina/",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 9.8,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 75.31,
-      "total_mensual_estimado_eur": 75.31,
+      "coste_cuota_eur": 9.47,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 72.62,
+      "total_mensual_estimado_eur": 75.13,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -432,13 +432,13 @@
       "nombre": "Lidera Energía Batería virtual (BV)",
       "url": "https://www.lideraenergia.com/bateria-virtual-a/",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 9.95,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 75.46,
-      "total_mensual_estimado_eur": 75.46,
+      "coste_cuota_eur": 9.62,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 72.77,
+      "total_mensual_estimado_eur": 75.28,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -446,13 +446,13 @@
       "nombre": "Próxima Energía Tarifa de luz (BV)",
       "url": "https://proximaenergia.com/tarifa-cristalina/",
       "indexada_pvpc": true,
-      "dias_calculados": 30,
-      "coste_energia_eur": 64.77,
+      "dias_calculados": 29,
+      "coste_energia_eur": 62.43,
       "coste_potencia_eur": 0.0,
-      "coste_cuota_eur": 13.7,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 79.21,
-      "total_mensual_estimado_eur": 79.21,
+      "coste_cuota_eur": 13.24,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 76.39,
+      "total_mensual_estimado_eur": 79.03,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     },
@@ -460,13 +460,13 @@
       "nombre": "GoiEner 2.0TD",
       "url": "https://www.goiener.com/es/tarifas/fijas/2-0td/",
       "indexada_pvpc": false,
-      "dias_calculados": 30,
-      "coste_energia_eur": 91.18,
+      "dias_calculados": 29,
+      "coste_energia_eur": 87.28,
       "coste_potencia_eur": 0.0,
       "coste_cuota_eur": 0.0,
-      "coste_fbs_eur": 0.74,
-      "total_eur": 91.92,
-      "total_mensual_estimado_eur": 91.92,
+      "coste_fbs_eur": 0.72,
+      "total_eur": 87.99,
+      "total_mensual_estimado_eur": 91.03,
       "horas_sin_precio_pvpc": 0,
       "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas."
     }
@@ -475,14 +475,14 @@
     "nombre": "Estabanell Pla Solar",
     "url": "https://estabanell.com/energia/solar/",
     "indexada_pvpc": false,
-    "dias_calculados": 30,
-    "coste_energia_eur": 33.92,
+    "dias_calculados": 29,
+    "coste_energia_eur": 32.63,
     "coste_potencia_eur": 0.0,
     "coste_cuota_eur": 0.0,
-    "coste_fbs_eur": 0.74,
-    "total_eur": 34.66,
-    "total_mensual_estimado_eur": 34.66,
-    "horas_sin_precio_pvpc": 353,
+    "coste_fbs_eur": 0.72,
+    "total_eur": 33.35,
+    "total_mensual_estimado_eur": 34.5,
+    "horas_sin_precio_pvpc": 341,
     "nota": "Precios SIN impuestos (IVA/IEE), igual que la web fuente. Válido para comparar entre tarifas. ⚠️ Hay horas sin precio PVPC disponible; el coste puede estar incompleto."
   },
   "historico_facturas_por_tarifa": {
@@ -682,104 +682,6 @@
         "total_factura_eur": 71.29
       }
     ],
-    "Imagina Energía Tarifa base - Noche y findes": [
-      {
-        "mes": "2024-09",
-        "total_factura_eur": 20.79
-      },
-      {
-        "mes": "2024-10",
-        "total_factura_eur": 21.11
-      },
-      {
-        "mes": "2024-11",
-        "total_factura_eur": 46.1
-      },
-      {
-        "mes": "2024-12",
-        "total_factura_eur": 86.03
-      },
-      {
-        "mes": "2025-01",
-        "total_factura_eur": 87.13
-      },
-      {
-        "mes": "2025-02",
-        "total_factura_eur": 72.19
-      },
-      {
-        "mes": "2025-03",
-        "total_factura_eur": 84.97
-      },
-      {
-        "mes": "2025-04",
-        "total_factura_eur": 31.81
-      },
-      {
-        "mes": "2025-05",
-        "total_factura_eur": 17.35
-      },
-      {
-        "mes": "2025-06",
-        "total_factura_eur": 6.3
-      },
-      {
-        "mes": "2025-07",
-        "total_factura_eur": 5.17
-      },
-      {
-        "mes": "2025-08",
-        "total_factura_eur": 1.93
-      },
-      {
-        "mes": "2025-09",
-        "total_factura_eur": 1.86
-      },
-      {
-        "mes": "2025-10",
-        "total_factura_eur": 6.7
-      },
-      {
-        "mes": "2025-11",
-        "total_factura_eur": 4.35
-      },
-      {
-        "mes": "2025-12",
-        "total_factura_eur": 6.36
-      },
-      {
-        "mes": "2026-01",
-        "total_factura_eur": 6.48
-      },
-      {
-        "mes": "2026-02",
-        "total_factura_eur": 6.86
-      },
-      {
-        "mes": "2026-03",
-        "total_factura_eur": 5.92
-      },
-      {
-        "mes": "2026-04",
-        "total_factura_eur": 21.84
-      },
-      {
-        "mes": "2026-05",
-        "total_factura_eur": 32.05
-      },
-      {
-        "mes": "2026-06",
-        "total_factura_eur": 29.82
-      },
-      {
-        "mes": "2026-07",
-        "total_factura_eur": 90.49
-      },
-      {
-        "mes": "2026-08",
-        "total_factura_eur": 76.28
-      }
-    ],
     "Naturgy Tarifa Noche": [
       {
         "mes": "2024-09",
@@ -879,6 +781,104 @@
       }
     ],
     "Naturgy Tarifa Noche (BV)": [
+      {
+        "mes": "2024-09",
+        "total_factura_eur": 21.11
+      },
+      {
+        "mes": "2024-10",
+        "total_factura_eur": 21.42
+      },
+      {
+        "mes": "2024-11",
+        "total_factura_eur": 46.92
+      },
+      {
+        "mes": "2024-12",
+        "total_factura_eur": 87.57
+      },
+      {
+        "mes": "2025-01",
+        "total_factura_eur": 88.67
+      },
+      {
+        "mes": "2025-02",
+        "total_factura_eur": 73.53
+      },
+      {
+        "mes": "2025-03",
+        "total_factura_eur": 86.5
+      },
+      {
+        "mes": "2025-04",
+        "total_factura_eur": 32.32
+      },
+      {
+        "mes": "2025-05",
+        "total_factura_eur": 17.61
+      },
+      {
+        "mes": "2025-06",
+        "total_factura_eur": 6.35
+      },
+      {
+        "mes": "2025-07",
+        "total_factura_eur": 5.21
+      },
+      {
+        "mes": "2025-08",
+        "total_factura_eur": 1.93
+      },
+      {
+        "mes": "2025-09",
+        "total_factura_eur": 1.86
+      },
+      {
+        "mes": "2025-10",
+        "total_factura_eur": 6.76
+      },
+      {
+        "mes": "2025-11",
+        "total_factura_eur": 4.38
+      },
+      {
+        "mes": "2025-12",
+        "total_factura_eur": 6.41
+      },
+      {
+        "mes": "2026-01",
+        "total_factura_eur": 6.53
+      },
+      {
+        "mes": "2026-02",
+        "total_factura_eur": 6.91
+      },
+      {
+        "mes": "2026-03",
+        "total_factura_eur": 5.98
+      },
+      {
+        "mes": "2026-04",
+        "total_factura_eur": 22.15
+      },
+      {
+        "mes": "2026-05",
+        "total_factura_eur": 32.53
+      },
+      {
+        "mes": "2026-06",
+        "total_factura_eur": 30.24
+      },
+      {
+        "mes": "2026-07",
+        "total_factura_eur": 91.71
+      },
+      {
+        "mes": "2026-08",
+        "total_factura_eur": 77.34
+      }
+    ],
+    "Naturgy Tarifa Solar": [
       {
         "mes": "2024-09",
         "total_factura_eur": 21.11
